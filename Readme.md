@@ -36,7 +36,7 @@ Current Focus:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,mysql,,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,mysql,html,css,javascript" />
 </p>
 
 ---
