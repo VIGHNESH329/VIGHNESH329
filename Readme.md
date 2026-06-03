@@ -83,19 +83,102 @@ Current Focus:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Portfolio
 
-| Project                        | Domain                  |
-| ------------------------------ | ----------------------- |
-| 🚗 Secure-CAN                  | Automotive Security     |
-| 🛡️ SIEM Threat Detection Lab  | SOC & Threat Detection  |
-| 🔍 Digital Forensics Framework | Digital Forensics       |
-| 🏥 Hospital Management System  | Software Development    |
-| 📋 GRC Compliance Mapping      | Governance & Compliance |
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚗 Secure-CAN
+
+**Automotive Cybersecurity Framework**
+
+🔹 CAN Bus Communication
+
+🔹 ECU Communication
+
+🔹 Vehicle IDS
+
+🔹 Secure Ethernet Communication
+
+🔹 Automotive Network Security
+
+</td>
+
+<td width="50%">
+
+### 🛡️ SIEM Threat Detection Lab
+
+**SOC Monitoring Environment**
+
+🔹 Security Monitoring
+
+🔹 Log Analysis
+
+🔹 Threat Detection
+
+🔹 Alert Triage
+
+🔹 Authentication Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔍 Digital Forensics Framework
+
+**Forensics Automation Toolkit**
+
+🔹 File Integrity Verification
+
+🔹 Log Parsing
+
+🔹 Anomaly Detection
+
+🔹 Incident Investigation
+
+🔹 Structured Reporting
+
+</td>
+
+<td width="50%">
+
+### 🏥 Hospital Management System
+
+**Java Application Development**
+
+🔹 Appointment Management
+
+🔹 Role-Based Access
+
+🔹 Patient Records
+
+🔹 Java Swing
+
+🔹 Secure Design Principles
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications & Achievements
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📜 Certifications
 
 🏆 Google Cybersecurity Professional Certificate
 
@@ -103,19 +186,49 @@ Current Focus:
 
 🏆 Ethical Byte Penetration Pro Certification
 
----
+</td>
 
-## 🏆 Achievements
+<td width="50%">
 
-🥈 4th Place - Vel Tech CTF
+### 🎯 Achievements
 
-🎯 Active FACT Cybersecurity Club Member
+🥈 4th Place — Vel Tech CTF
 
-🔐 Participated in Cybersecurity Competitions
+🔐 Active FACT Cybersecurity Club Member
 
 🚀 Building Secure-CAN Automotive Security Framework
 
+💻 Participated in Cybersecurity Competitions
+
+🎯 Continuous Learning in Security & Development
+
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+## 🌟 Highlights
+
+```diff
++ Cybersecurity Undergraduate
+
++ Secure Software Developer
+
++ SOC & Threat Detection Learner
+
++ Automotive Security Enthusiast
+
++ Digital Forensics Learner
+
++ Passed ISC2 CC Examination
+
++ Google Cybersecurity Professional Certificate
+
++ Top 4 - Vel Tech CTF
+```
 
 
 
