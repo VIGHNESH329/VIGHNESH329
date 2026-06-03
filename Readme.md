@@ -6,7 +6,7 @@
 
 ### Cybersecurity Undergraduate | Secure Software Development | SOC & Threat Detection
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate;Secure+Software+Developer;SOC+%26+Threat+Detection+Learner;Automotive+Security+Enthusiast;Digital+Forensics+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate;Secure+Software+Developer;SOC+%26+Threat+Detection+Learner;Automotive+Security+Enthusiast;Digital+Forensics" />
 
 </div>
 
@@ -36,7 +36,7 @@ Current Focus:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,linux,git,mysql,vscode,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,mysql,,html,css,javascript" />
 </p>
 
 ---
