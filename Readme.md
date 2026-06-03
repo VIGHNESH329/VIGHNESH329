@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Deepak%20Sai%20Vighnesh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Undergraduate%20|%20Software%20Developer%20|%20SOC%20Learner&descAlignY=55"/>
+</p>
 # 👋 Hi, I'm Deepak Sai Vighnesh
 
 ### Cybersecurity Undergraduate | Secure Software Development | SOC & Threat Detection
