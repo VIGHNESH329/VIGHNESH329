@@ -33,7 +33,7 @@ Current Focus:
 
 ---
 
-## ⚡ Technology Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,git,mysql,vscode,html,css,javascript" />
@@ -41,65 +41,28 @@ Current Focus:
 
 ---
 
-## 🛡️ Cybersecurity
+## 🎯 Focus Areas
 
-✔ Security Monitoring
+### 🛡️ Cybersecurity
 
-✔ Threat Detection
+![SOC](https://img.shields.io/badge/SOC-Operations-0891b2?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat-Detection-0891b2?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Digital-Forensics-0891b2?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Top10-0891b2?style=for-the-badge)
 
-✔ Log Analysis
+### 💻 Software Development
 
-✔ Alert Triage
+![Python](https://img.shields.io/badge/Python-Programming-f59e0b?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Development-f59e0b?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Programming-f59e0b?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-f59e0b?style=for-the-badge)
 
-✔ Incident Investigation
+### 🚗 Automotive Security
 
-✔ Vulnerability Assessment
-
-✔ Network Security
-
-✔ Digital Forensics
-
-✔ OWASP Top 10
-
-✔ SOC Fundamentals
-
----
-
-## 💻 Software Development
-
-✔ Object-Oriented Programming
-
-✔ Java Development
-
-✔ Python Automation
-
-✔ C++ Programming
-
-✔ Data Structures & Algorithms
-
-✔ Backend Development
-
-✔ Secure Coding Practices
-
-✔ Problem Solving
-
----
-
-## 🚗 Automotive Security
-
-Currently Exploring:
-
-✔ CAN Bus Communication
-
-✔ ECU Communication
-
-✔ Vehicle Network Security
-
-✔ Automotive Intrusion Detection Systems
-
-✔ Secure Ethernet Communication
-
-✔ Secure-CAN Framework
+![CAN](https://img.shields.io/badge/CAN-Bus-10b981?style=for-the-badge)
+![ECU](https://img.shields.io/badge/ECU-Security-10b981?style=for-the-badge)
+![Vehicle IDS](https://img.shields.io/badge/Vehicle-IDS-10b981?style=for-the-badge)
+![Secure CAN](https://img.shields.io/badge/Secure-CAN-10b981?style=for-the-badge)
 
 ---
 
