@@ -27,8 +27,8 @@ Current Focus:
 ├── SOC Operations
 ├── Threat Detection
 ├── Automotive Security
-├── Digital Forensics
-└── Cloud Security
+|── Digital Forensics
+
 ```
 
 ---
